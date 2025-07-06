@@ -87,12 +87,14 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 </p>
 
 ---
-
-### 🎬 Dev Vibes
+### ⚡ Real Dev Energy
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="70%" />
+  <img src="https://media.giphy.com/media/WXB88TeARFVvi/giphy.gif" width="60%" />
 </p>
+
+> Code hard. Debug harder. Drop content daily on [@codedropper](https://instagram.com/codedropper) 🔥  
+> Powered by caffeine & good vibes ☕💻
 
 ---
 

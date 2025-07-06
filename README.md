@@ -35,8 +35,7 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 
 ### 🏆 Certifications
 
-- ✅ Master Frontend HTML to ReactJS  Certificate - *(https://codewithrandom.dev/certificate/66688dc8fa4db38a256b6c31/66594221451b7120433d3f62)*  
- 
+- ✅ [Master Frontend: HTML to ReactJS – CodeWithRandom](https://codewithrandom.dev/certificate/66688dc8fa4db38a256b6c31/66594221451b7120433d3f62)
 
 ---
 

@@ -35,10 +35,8 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 
 ### 🏆 Certifications
 
-- ✅ React Developer Certificate – Coursera *(Add Link)*  
-- ✅ PHP for Beginners – Udemy *(Add Link)*  
-- ✅ JavaScript Fundamentals – freeCodeCamp *(Add Link)*  
-- ✅ Web Security Essentials – Codecademy *(Add Link)*  
+- ✅ Master Frontend HTML to ReactJS  Certificate - *(https://codewithrandom.dev/certificate/66688dc8fa4db38a256b6c31/66594221451b7120433d3f62)*  
+ 
 
 ---
 
@@ -46,9 +44,9 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 
 | Project | Description | Tech |
 |--------|-------------|------|
+| [StayNest](https://github.com/yashparmar7/stay-nest) | Form with EmailJS + motion effects | React, Framer Motion, EmailJS |
 | [Coffee Culture](https://github.com/yashparmar7/coffee-culture) | Café website with modern UI & animations | React, Tailwind, Framer Motion |
 | [VirtualR](https://github.com/yashparmar7/virtualr) | VR-themed experience with theme toggling | React, Tailwind |
-| [Contact Page](https://github.com/yashparmar7/contact-page) | Form with EmailJS + motion effects | React, Framer Motion, EmailJS |
 
 👉 More live demos on my [Portfolio](https://yashparmar-portfolio.netlify.app/)
 

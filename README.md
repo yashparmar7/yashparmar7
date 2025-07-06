@@ -19,28 +19,30 @@
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yashparmar7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
+
 ---
 
 ### 💡 About Me
 
 I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scalable backends, and engaging content for developers.
 
-- 🧠 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, **PHP**, and more
-- 💻 Building creative full-stack projects & writing clean, scalable code
-- 📲 Sharing daily dev tips, memes & reels on [@codedropper](https://instagram.com/codedropper)
-- 🎯 Looking for freelance & internship roles in full-stack dev
+- 🧠 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, **PHP**, and more  
+- 💻 Building creative full-stack projects & writing clean, scalable code  
+- 📲 Sharing daily dev tips, memes & reels on [@codedropper](https://instagram.com/codedropper)  
+- 🎯 Looking for freelance & internship roles in full-stack dev  
 
 ---
 
 ### 🏆 Certifications
 
-- ✅ React Developer Certificate – Coursera *(Add Link)*
-- ✅ PHP for Beginners – Udemy *(Add Link)*
-- ✅ JavaScript Fundamentals – freeCodeCamp *(Add Link)*
-- ✅ Web Security Essentials – Codecademy *(Add Link)*
+- ✅ React Developer Certificate – Coursera *(Add Link)*  
+- ✅ PHP for Beginners – Udemy *(Add Link)*  
+- ✅ JavaScript Fundamentals – freeCodeCamp *(Add Link)*  
+- ✅ Web Security Essentials – Codecademy *(Add Link)*  
 
 ---
 
@@ -102,9 +104,9 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 
 ### 📬 Let's Connect!
 
-- 🔗 [LinkedIn](https://linkedin.com/in/yashparmar07)
-- 📸 [Instagram @codedropper](https://instagram.com/codedropper)
-- 🌐 [Portfolio](https://yashparmar-portfolio.netlify.app/)
+- 🔗 [LinkedIn](https://linkedin.com/in/yashparmar07)  
+- 📸 [Instagram @codedropper](https://instagram.com/codedropper)  
+- 🌐 [Portfolio](https://yashparmar-portfolio.netlify.app/)  
 
 ---
 

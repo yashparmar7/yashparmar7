@@ -54,6 +54,17 @@
 </p>
 
 ---
+### 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashparmar7&theme=tokyonight" />
+</p>
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=yashparmar7&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
 
 ### 🎬 Dev Vibes
 

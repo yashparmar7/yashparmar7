@@ -19,11 +19,9 @@
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=react&logoColor=white" />
   </a>
 </p>
-
 <p align="center">
-  ![Profile views](https://komarev.com/ghpvc/?username=yashparmar7&label=Profile%20Views&color=0e75b6&style=flat)
+  <img src="https://komarev.com/ghpvc/?username=yashparmar7&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
-
 ---
 
 ### 💡 About Me

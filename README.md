@@ -1,7 +1,11 @@
+<p align="center">
+  <img src="https://your-banner-link.com/banner.png" alt="Yash Parmar GitHub Banner" />
+</p>
+
 <h1 align="center">Hey 👋, I'm Yash Parmar</h1>
 
 <p align="center">
-  👨‍💻 MERN Stack Developer | PHP Enthusiast | Content Creator  
+  👨‍💻 MERN Stack Developer | PHP Enthusiast | Full Stack JavaScript Engineer  
 </p>
 
 <p align="center">
@@ -16,14 +20,41 @@
   </a>
 </p>
 
+<p align="center">
+  ![Profile views](https://komarev.com/ghpvc/?username=yashparmar7&label=Profile%20Views&color=0e75b6&style=flat)
+</p>
+
 ---
 
 ### 💡 About Me
 
-- 🔧 I build full-stack web apps using **React**, **Node.js**, **Express**, and **MongoDB**
-- 🧠 Passionate about writing clean, maintainable code — from **JavaScript** to **PHP**
-- 📱 I create daily dev content: tips, memes & project ideas on Instagram
-- 🚀 Follow my journey 👉 [@codedropper](https://instagram.com/codedropper)
+I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scalable backends, and engaging content for developers.
+
+- 🧠 Skilled in **React**, **Node.js**, **Express**, **MongoDB**, **PHP**, and more
+- 💻 Building creative full-stack projects & writing clean, scalable code
+- 📲 Sharing daily dev tips, memes & reels on [@codedropper](https://instagram.com/codedropper)
+- 🎯 Looking for freelance & internship roles in full-stack dev
+
+---
+
+### 🏆 Certifications
+
+- ✅ React Developer Certificate – Coursera *(Add Link)*
+- ✅ PHP for Beginners – Udemy *(Add Link)*
+- ✅ JavaScript Fundamentals – freeCodeCamp *(Add Link)*
+- ✅ Web Security Essentials – Codecademy *(Add Link)*
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Coffee Culture](https://github.com/yashparmar7/coffee-culture) | Café website with modern UI & animations | React, Tailwind, Framer Motion |
+| [VirtualR](https://github.com/yashparmar7/virtualr) | VR-themed experience with theme toggling | React, Tailwind |
+| [Contact Page](https://github.com/yashparmar7/contact-page) | Form with EmailJS + motion effects | React, Framer Motion, EmailJS |
+
+👉 More live demos on my [Portfolio](https://yashparmar-portfolio.netlify.app/)
 
 ---
 
@@ -54,15 +85,12 @@
 </p>
 
 ---
+
 ### 🔥 GitHub Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashparmar7&theme=tokyonight" />
 </p>
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=yashparmar7&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
@@ -78,10 +106,10 @@
 
 - 🔗 [LinkedIn](https://linkedin.com/in/yashparmar07)
 - 📸 [Instagram @codedropper](https://instagram.com/codedropper)
-- 🧑‍💻 [Portfolio](https://yashparmar-portfolio.netlify.app/)
+- 🌐 [Portfolio](https://yashparmar-portfolio.netlify.app/)
 
 ---
 
 ### ⚡ Fun Fact
 
-_I debug faster when there's chai around ☕ — true dev power!_
+_I debug faster when there’s chai around ☕ — true developer fuel!_

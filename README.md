@@ -44,7 +44,7 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [StayNest](https://github.com/yashparmar7/stay-nest) | Form with EmailJS + motion effects | React, Framer Motion, EmailJS |
+| [StayNest](https://github.com/yashparmar7/staynest) | Airbnb-like app for rentals with full auth, sessions & cloud storage | Node.js, Express, MongoDB, EJS |
 | [Coffee Culture](https://github.com/yashparmar7/coffee-culture) | Café website with modern UI & animations | React, Tailwind, Framer Motion |
 | [VirtualR](https://github.com/yashparmar7/virtualr) | VR-themed experience with theme toggling | React, Tailwind |
 

@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://your-banner-link.com/banner.png" alt="Yash Parmar GitHub Banner" />
-</p>
-
 <h1 align="center">Hey 👋, I'm Yash Parmar</h1>
 
 <p align="center">

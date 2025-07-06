@@ -1,16 +1,34 @@
-## Hi there 👋
+<h1 align="center">Hey 👋, I'm Yash Parmar</h1>
 
-<!--
-**yashparmar7/yashparmar7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  👨‍💻 MERN Stack Developer | PHP Enthusiast | Content Creator
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 About Me
+
+- 🔧 I specialize in building full-stack apps using **React**, **Node.js**, **Express**, and **MongoDB**  
+- 🧠 Passionate about writing clean, maintainable code — from **JavaScript** to **PHP**  
+- 📱 I create **daily dev content**: tips, memes & project ideas on Instagram  
+- 🚀 Follow me on IG 👉 [@codedropper](https://instagram.com/codedropper)
+
+---
+
+### 🛠️ Tech Stack
+
+- **Frontend:** React.js, Tailwind CSS, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express, PHP  
+- **Database:** MongoDB, MySQL  
+- **Tools:** Git, VS Code, Postman, Figma  
+
+---
+
+### 📬 Let's Connect!
+
+- 🔗 [LinkedIn](https://linkedin.com/in/yashparmar07)  
+- 📸 [Instagram @codedropper](https://instagram.com/codedropper)  
+- 🧑‍💻 [Portfolio](https://yashparmar-portfolio.netlify.app/)
+---
+
+⚡ _Fun Fact: I debug faster when there's chai around ☕_

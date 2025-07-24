@@ -46,6 +46,7 @@ I'm a passionate MERN Stack Developer with a love for crafting elegant UI, scala
 | [StayNest](https://github.com/yashparmar7/staynest) | Airbnb-like app for rentals with full auth, sessions & cloud storage | Node.js, Express, MongoDB, EJS |
 | [Coffee Culture](https://github.com/yashparmar7/coffee-culture) | Café website with modern UI & animations | React, Tailwind, Framer Motion |
 | [VirtualR](https://github.com/yashparmar7/virtualr) | VR-themed experience with theme toggling | React, Tailwind |
+| [LinkUp](https://github.com/yashparmar7/linkup) | Real-time chat & video calling app with auth, friends system, and 32 UI themes | React, Node.js, Express, MongoDB, Tailwind, TanStack Query |
 
 👉 More live demos on my [Portfolio](https://yashparmar-portfolio.netlify.app/)
 
